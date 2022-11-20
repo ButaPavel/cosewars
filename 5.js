@@ -5,4 +5,5 @@ let arr = Array.from(word)
             arr.splice(i, 3) // удаляет с 1 1 элемнент
         }
     }
+
 return arr.join('');
