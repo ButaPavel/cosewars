@@ -11,6 +11,7 @@ for (i = 0; origin(number).length; i++){
         return
     }
 }
+
 console.log(invers(val))
 console.log(origin(val))
 
