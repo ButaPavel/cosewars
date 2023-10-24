@@ -12,4 +12,3 @@
     }
   return o
 }
-console.log (splitInteger(10,1))
